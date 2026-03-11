@@ -11,6 +11,6 @@ Notebook contains work to extract ClinVar data VIA API and data cleaning/schema 
 ### Alz_Pd_Clean:
 This is the cleaned and integrated GWAS dataset.
 ### MONDO_0004975_Alzheimers:
-This is the raw GWAS Alzeheimer's dataset.
+This is the raw GWAS Alzheimer's dataset.
 ### MONDO_0005180_Parkinsons:
 This is the raw GWAS Parkinson's dataset
